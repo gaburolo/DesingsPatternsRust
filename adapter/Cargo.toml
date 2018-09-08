@@ -1,0 +1,6 @@
+[package]
+name = "Adapter"
+version = "0.1.0"
+authors = ["Juan Pablo Martínez Brenes <jpmb1220@gmail.com>"]
+
+[dependencies]
